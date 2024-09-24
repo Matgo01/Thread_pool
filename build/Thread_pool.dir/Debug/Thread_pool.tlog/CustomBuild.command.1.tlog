@@ -1,0 +1,10 @@
+^C:\USERS\MGORLA\DOCUMENTS\MATTEO_GORLA\THREAD_C++\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mgorla/Documents/Matteo_Gorla/Thread_C++ -BC:/Users/mgorla/Documents/Matteo_Gorla/Thread_C++/build --check-stamp-file C:/Users/mgorla/Documents/Matteo_Gorla/Thread_C++/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

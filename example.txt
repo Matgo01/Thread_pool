@@ -1,0 +1,3 @@
+This is an example text file.
+It contains multiple lines of text for testing purposes.
+Each line is intended to be read by the asynchronous file reading task in the ThreadPool example.

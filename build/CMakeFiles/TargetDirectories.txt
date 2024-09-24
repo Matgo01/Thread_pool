@@ -1,0 +1,3 @@
+C:/Users/mgorla/Documents/Matteo_Gorla/Thread_C++/build/CMakeFiles/Thread_pool.dir
+C:/Users/mgorla/Documents/Matteo_Gorla/Thread_C++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mgorla/Documents/Matteo_Gorla/Thread_C++/build/CMakeFiles/ZERO_CHECK.dir
